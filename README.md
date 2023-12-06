@@ -22,7 +22,8 @@ Install the required dependencies:
 
 bash
 
-    pip install -r requirements.txt
+    pip install PyPDF2==1.26.0
+
 
 Usage
 
